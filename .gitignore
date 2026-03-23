@@ -1,0 +1,20 @@
+.DS_Store
+Thumbs.db
+
+# Local review artifacts
+box-crop*.png
+figma-page*.png
+figment_page_*.json
+file_metadata.json
+image_batch.json
+hero-1920-*.png
+hero-render*.png
+products-render.png
+render-*.png
+section-render.png
+
+# Temporary exported assets
+assets/contact-sheet*.png
+assets/img-*.png
+assets/u-*.png
+
